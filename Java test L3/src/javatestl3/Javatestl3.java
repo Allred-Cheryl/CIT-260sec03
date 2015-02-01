@@ -7,7 +7,7 @@ package javatestl3;
 
 /**
  *
- * @author Thirsty Kitty
+ * @author Cheryl Allred
  */
 public class Javatestl3 {
     public static void main(String[] args) {
