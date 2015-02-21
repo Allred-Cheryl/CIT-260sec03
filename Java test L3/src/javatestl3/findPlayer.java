@@ -25,7 +25,7 @@ public void search(String[] names) {
         }  
 }
         if (found) 
-            System.out.println(playersName "found!");
+            System.out.println(playersName "found!" + "Player is number "names[i]+1);
         else
             System.out.println(playersName "NOT found!");
 }
